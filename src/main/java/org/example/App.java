@@ -19,5 +19,6 @@ public class App
         System.out.println( "updated by master2" );
         System.out.println( "Hello hot-fix2!" );
         System.out.println("changed by hot-fix2 branch");
+        System.out.println("after shared test-git project");
     }
 }
