@@ -17,5 +17,6 @@ public class App
         System.out.println( "Hello hot-fix!" );
         System.out.println( "updated by master" );
         System.out.println( "updated by master2" );
+        System.out.println( "Hello hot-fix2!" );
     }
 }
