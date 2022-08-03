@@ -20,5 +20,6 @@ public class App
         System.out.println( "Hello hot-fix2!" );
         System.out.println("changed by hot-fix2 branch");
         System.out.println("after shared test-git project");
+        System.out.println("changed by github website");
     }
 }
